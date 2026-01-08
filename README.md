@@ -65,7 +65,7 @@ I'm a passionate Data Engineer with experience in building scalable data pipelin
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/anilkmr3)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anilkmr3?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BiaPOq80pRfaHMc%2BPvUS3kA%3D%3D)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akmr7396@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ani-kmr)
 
