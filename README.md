@@ -20,7 +20,7 @@ I'm a passionate Data Engineer with experience in building scalable data pipelin
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### AI/ML & Data Science
+### AI
 ![HuggingFace](https://img.shields.io/badge/🤗_Hugging_Face-FDEE21?style=for-the-badge&logoColor=black)
 ![LangChain](https://img.shields.io/badge/🦜_LangChain-1C3C3C?style=for-the-badge&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -53,7 +53,7 @@ I'm a passionate Data Engineer with experience in building scalable data pipelin
 ## GitHub Activity 📊
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harshinharshi&theme=radical" alt="GitHub Profile Summary"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ani-kmr&theme=radical" alt="GitHub Profile Summary"/>
 </div>
 
 <div align="center">
