@@ -81,6 +81,6 @@ I'm a passionate Data Engineer with experience in building scalable data pipelin
   
 **"The future belongs to those who believe in the beauty of their dreams"** ✨
   
-*Thanks for stopping by! Feel free to reach out if you want to collaborate on exciting AI/ML projects!* 🚀
+*Thanks for stopping by! Feel free to reach out if you want to collaborate on exciting projects!* 🚀
 
 </div>
