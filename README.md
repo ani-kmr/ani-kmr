@@ -20,7 +20,7 @@ I'm a passionate Data Engineer with experience in building scalable data pipelin
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### AI
+### AI Enthusiatic
 ![HuggingFace](https://img.shields.io/badge/🤗_Hugging_Face-FDEE21?style=for-the-badge&logoColor=black)
 ![LangChain](https://img.shields.io/badge/🦜_LangChain-1C3C3C?style=for-the-badge&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -30,11 +30,14 @@ I'm a passionate Data Engineer with experience in building scalable data pipelin
 
 ### Cloud & DevOps
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
 
 ### Databases & Tools
+![Oracle](https://img.shields.io/badge/Oracle_DB-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -43,8 +46,11 @@ I'm a passionate Data Engineer with experience in building scalable data pipelin
 
 <div align="center">
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
+| Project | Description | Status | More Details |
+|---------|-------------|--------|--------------|
+| ✈️ Airline Project | Predictive modeling for delays, pricing, and demand forecasting | In Progress | [View Docs](https://ani-kmr.github.io/DeiA/) |
+| 📊 Market Data Project | Statistical & ML models for trends, anomalies, and forecasting | In Progress | [View Docs](https://ani-kmr.github.io/DeiA/) |
+| 💹 Stock Prices Project | Time-series analysis and ML-based predictions | In Progress | [View Docs](https://ani-kmr.github.io/DeiA/) |
 
 </div>
 
